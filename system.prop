@@ -5,3 +5,7 @@ rild.libargs=-d /dev/smd0
 
 # audio
 ro.audio.monitorRotation=1
+
+# Device
+ro.product.device=titan
+ro.product.model=Moto G 2014
