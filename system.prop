@@ -2,3 +2,7 @@
 
 # radio
 rild.libargs=-d /dev/smd0
+
+# Device
+ro.product.device=titan
+ro.product.model=Moto G 2014
