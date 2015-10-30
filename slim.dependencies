@@ -9,4 +9,9 @@
     "target_path": "kernel/motorola/msm8226",
     "branch":      "lp5.1"
   }
+  {
+    "repository": "SlimRoms/android_external_sony_boringssl-compat",
+    "target_path": "external/sony/boringssl-compat"
+    "branch":      "mm6.0"
+  }
 ]
